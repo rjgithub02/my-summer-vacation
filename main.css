@@ -32,3 +32,21 @@ h4 {
 
 
 }
+
+a {
+    color: #2ddb20;
+
+
+}
+
+a: visited {
+    color: #9d20db;
+
+
+}
+
+a: hover {
+    color: #ffffff;
+
+
+}
